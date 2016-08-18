@@ -1,0 +1,23 @@
+{
+  "name": "emptyStarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-wiredep": "0.0.0",
+    "stream-series": "^0.1.1"
+  },
+  "dependencies": {
+    "wiredep": "^4.0.0",
+    "wiredep-cli": "^0.1.0"
+  }
+}
